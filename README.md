@@ -1,6 +1,13 @@
 # Sharecuts
 
 Share your favorite Shortcuts with the community, browse shortcuts shared by the community.
+Featues Available:
+Add Attachment to agenda	
+Add clipboard row to googlesheet
+Add Reminder with googletask subTask
+App Release Note
+Append Link To EverNote
+Append Notes to Think task
 
 Live at [sharecuts.app][1]
 
